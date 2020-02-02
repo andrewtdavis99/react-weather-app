@@ -1,0 +1,27 @@
+form {
+    margin-top: 2rem;
+}
+
+form input[name="city"],
+form input[name="country"] {
+    border: 0;
+    background-color: transparent;
+    color: #fff !important;
+    border-bottom: 2px solid whitesmoke;
+    border-radius: 0;
+}
+
+form input:focus {
+    background-color: transparent !important;
+    box-shadow: none !important;
+}
+
+::placeholder {
+    color: whitesmoke !important;
+}
+
+@media only screen and (max-width: 600px) {
+    .btn {
+      margin-top: 1rem !important;
+    }
+  }
