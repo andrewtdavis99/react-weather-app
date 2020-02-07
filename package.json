@@ -2,7 +2,7 @@
   "name": "react-weather-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://andrewtdavis99.github.io/react-weather-app",
+  "homepage": "https://andrewtdavis99.github.io/react-weather-app",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.4.0",
